@@ -36,6 +36,8 @@ TOKEN=your_bot_token
 // DEFAULT IS OPENAI 
 OPENAI_API_KEY=<token>
 GEMINI_API_KEY=<token>
+GEMINI_MODEL="gemini-2.5-flash"
+OPENAI_MODEL="gpt-4o-mini"
 ```
 
 ### Running the Bot
